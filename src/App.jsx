@@ -22,7 +22,7 @@ function App() {
             fontSize: '28px',
             fontWeight: 'bold'
           }}>
-            波点包装报价系统
+            报价系统
           </h1>
           <AppRoutes />
         </div>
